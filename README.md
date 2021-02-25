@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi Armando here 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArmandoFloresC?color=1DA1F2&label=Armando&logo=twitter&style=for-the-badge)](https://twitter.com/ArmandoFloresC)
 
-**Armando80/Armando80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Armando80/Armando80** is a ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- links -->
